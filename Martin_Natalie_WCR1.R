@@ -1,5 +1,7 @@
 #Martin_Natalie_WRC1.R
 
+#Hello
+
 #Question 1 
 my_vec <- 1:10
 print(my_vec[6])
